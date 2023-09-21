@@ -2,3 +2,5 @@ RENCANA KONTEN HARI INI
 
 - Database PostgreSQL
 - JavaScript & TypeScript Fundamental
+- BackEnd:
+  1. NodeJs
