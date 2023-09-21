@@ -5,3 +5,5 @@ RENCANA KONTEN HARI INI
 - BackEnd:
   1. NodeJs
 - Fundamental C/C++
+- Framework Angular
+- Framework Golang
