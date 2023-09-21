@@ -8,3 +8,4 @@ RENCANA KONTEN HARI INI
 - Framework Angular
 - Framework React
 - Python Fundamental
+- Golang
