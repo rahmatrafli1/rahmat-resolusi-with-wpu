@@ -6,4 +6,5 @@ RENCANA KONTEN HARI INI
   1. NodeJs
 - Fundamental C/C++
 - Framework Angular
-- Framework Golang
+- Framework React
+- Python Fundamental
