@@ -1,0 +1,4 @@
+RENCANA KONTEN HARI INI
+
+- Database PostgreSQL
+- JavaScript & TypeScript Fundamental
