@@ -4,3 +4,4 @@ RENCANA KONTEN HARI INI
 - JavaScript & TypeScript Fundamental
 - BackEnd:
   1. NodeJs
+- Fundamental C/C++
