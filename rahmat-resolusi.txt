@@ -2,3 +2,4 @@ RAHMAT RESOLUSI
 - Konsisten untuk belajar 5 kali dalam seminggu
 - Membuat Studi Kasus Sederhana dengan menggunakan typescript
 - Istirahat hanya sabtu dan minggu
+- Kolaborasi dengan teman
